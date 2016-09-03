@@ -6,7 +6,14 @@ Jogos desenvolvidos para o laboratório Relih, num projeto interdisciplinar.
 
 Neste jogo é contado histórias que acontecem às reduções do Guairá, fato histórico que aconteceu entre os anos de 1628 e 1629. Nesta primeira fase há um confronto entre os bandeirantes e os índios, sendo que, juntamente com Manoel Porto Antônio Raposo Tavares invadiu as reduções do Guairá (atual estado do Paraná) apreendendo índios e obtendo metais preciosos da região. Aproximadamente 900 mamelucos, 200 índios auxiliares capitaneados por 69 paulistas invadiram e destruíram inúmeras reduções na província do Guairá. No total 100 mil índios foram escravizados pelos bandeirantes paulistas. A região do Guairá possuía 13 reduções tendo Ruiz Montoya seu principal fundador a partir de 1610.
 
-Dentro do jogo, então, tenta-se recriar um ambiente semelhante ao pantanal, onde houvera o ataque, e a redunção, com casas, a igreja, as estradas, a flora, e os índios no qual estavam ali e tentaram se defender do ataque. O jogador, controlando um bandeirante, tem por objetivo invadir essa redunção, confrontando os índios e procurando achar e pegar os metais preciosos que estão espalhados pelo mapa.
+Cinco fases ao todo foram feitas usando a ferramenta Construct 2 e o resultado foi um jogo interativo de ação que procura ensinar ao jogador  um pouco da História Brasileira através de cenas, objetos e ações que é possível ao jogador executar dentro do jogo.
+As cinco fases do jogo estão distribuídas assim:
+ 
+ 1. Ataque dos bandeirantes ao Guairá
+ 2. Investida dos índígenas ao Guairá
+ 3. Ataque dos bandeirantes as reduções do Tape
+ 4. Reação dos índios no Tape
+ 5. Bandeirantes invadindo o Itatim
 
 ### Segundo jogo - Moedas
 
